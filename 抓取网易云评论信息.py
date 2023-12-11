@@ -12,7 +12,7 @@ url = 'https://music.163.com/weapi/comment/resource/comments/get?csrf_token=8f17
 
 # 请求方式是POST
 data = {
-    "csrf_token": "8f179a723105841a8770aafb2adca618",
+    "csrf_token": "",
     "cursor": "-1",
     "offset": "0",
     "orderType": "1",
